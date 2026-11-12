@@ -8,6 +8,7 @@ idraulico e aria compressa per le attrezzature.
 | File | Contenuto |
 |---|---|
 | `Impiantistica_008_migliorata.png` | Foglio completo (3500×2479) con contrasto e nitidezza migliorati |
+| `Impiantistica_008_vettoriale.pdf` | **Versione vettoriale PDF** (A4 orizzontale): linee, testi e simboli tracciati come vettori, scalabili senza perdita di qualità (~248 KB) |
 | `dettaglio_1_pianta_lato_pulito.png` | Pianta — lato pulito, ingrandita |
 | `dettaglio_2_pianta_lato_sporco.png` | Pianta — lato sporco, ingrandita |
 | `dettaglio_3_sezione_autoclave.png` | Sezione verticale mobile autoclave, ingrandita |
